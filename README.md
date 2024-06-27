@@ -1,4 +1,4 @@
-# Git, Docker and Postgres Workshop
+# Git, Docker and Postgres Workshop by Manjunath
 
 A hands-on workshop to explain the basics of Git, Docker, 
 and Postgres. In this, you will learn the foundations of using 
